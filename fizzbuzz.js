@@ -21,6 +21,7 @@ if (message) {
     console.log(number);
 }
 
+
 // Solution
 message = "";
 
